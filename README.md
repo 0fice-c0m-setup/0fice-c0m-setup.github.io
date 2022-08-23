@@ -10,7 +10,7 @@ Put brilliant Óffice apps into use to perform faster in the business world and 
 
 [![Óffice.com/setup](word.jpg)](https://0fice-c0m-setup.github.io/)
 
-If one encounters any problems downloading the setup file from óffice.com/setup, the user can quickly go through the described process.We have shared the detailed procedure on the page. Execute the steps in the described manner.
+**If one encounters any problems downloading the setup file from óffice.com/setup, the user can quickly go through the described process.We have shared the detailed procedure on the page. Execute the steps in the described manner.**
 
 1. First, you need to connect a computer to a good internet connection.
 2. After establishing a proper connection for your computer and the stable internet, open any latest web browser version on your computer and go to óffice.com/setup.
@@ -41,7 +41,7 @@ We have explained the step-by-step procedure to download MS Óffice from óffice
 
 ## How to Activate MS Óffice on Windows and Mac Device
 
-When you have completed the downloading and installation at the website óffice.com/setup, you should carry out the activation. Follow the straightforward method shared below:
+**When you have completed the downloading and installation at the website óffice.com/setup, you should carry out the activation. Follow the straightforward method shared below:**
 
 1. As a Windows device user, press the Win key on the keyboard.
 2. Type an Óffice app name in the search bar.
@@ -56,7 +56,7 @@ When you have completed the downloading and installation at the website óffice.
 
 ## How to Upgrade Óffice Subscription Quickly at Óffice.com/setup
 
-If you face any complexities while upgrading your Óffice subscription, you can reach óffice.com/setup and implement the steps shared below. Below is the straightforward process for you. Follow the instructions:
+**If you face any complexities while upgrading your Óffice subscription, you can reach óffice.com/setup and implement the steps shared below. Below is the straightforward process for you. Follow the instructions:**
 
 1. Connect your system to the internet and go to óffice.com/setup.
 2. Select the sign-in.
