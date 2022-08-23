@@ -2,7 +2,7 @@
 
 [![óffice.com/setup](getstarted.png)](http://micoffset.s3-website-us-west-1.amazonaws.com)
 
-Put brilliant Óffice apps into use to perform faster in the business world and enhance productivity. We have shared the precise process below to download, install and activate your Óffice product from óffice.com/setup. Follow the instructions that we have mentioned below.
+Put brilliant Óffice apps into use to perform faster in the business world and enhance productivity. We have shared the precise process below to download, install and activate your Óffice product from **óffice.com/setup**. Follow the instructions that we have mentioned below.
 
 
 
@@ -13,7 +13,7 @@ Put brilliant Óffice apps into use to perform faster in the business world and 
 **If one encounters any problems downloading the setup file from óffice.com/setup, the user can quickly go through the described process.We have shared the detailed procedure on the page. Execute the steps in the described manner.**
 
 1. First, you need to connect a computer to a good internet connection.
-2. After establishing a proper connection for your computer and the stable internet, open any latest web browser version on your computer and go to óffice.com/setup.
+2. After establishing a proper connection for your computer and the stable internet, open any latest web browser version on your computer and go to **óffice.com/setup**.
 3. Doing these steps will take you to the sign-in page. You need to enter the correct credentials in the required manner.
 4. If you plan to create a new Óffice account, you need to select the Sign-up option.
 5. You need to select Microsoft Home to reach the Microsoft homepage quickly.
@@ -29,7 +29,7 @@ Put brilliant Óffice apps into use to perform faster in the business world and 
 
 We have explained the step-by-step procedure to download MS Óffice from óffice.com/setup, implement the installation process with these steps.
 
-1. When you download the Óffice setup from the site óffice.com/setup, you need to run the Óffice installer to begin the installation.
+1. When you download the Óffice setup from the site **óffice.com/setup**, you need to run the Óffice installer to begin the installation.
 2. On your system folder, you are to locate the Óffice setup file.
 3. Double-click it and keep waiting until the installation is complete.
 4. When the installation reaches a conclusion, the “You're all set! MS Óffice is installed!” message will appear on the screen.
@@ -58,7 +58,7 @@ We have explained the step-by-step procedure to download MS Óffice from óffice
 
 **If you face any complexities while upgrading your Óffice subscription, you can reach óffice.com/setup and implement the steps shared below. Below is the straightforward process for you. Follow the instructions:**
 
-1. Connect your system to the internet and go to óffice.com/setup.
+1. Connect your system to the internet and go to **óffice.com/setup**.
 2. Select the sign-in.
 3. Log in to your registered Óffice account with the right credentials.
 4. After that, you should click on the My Microsoft Account.
